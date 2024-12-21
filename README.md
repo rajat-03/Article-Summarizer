@@ -16,7 +16,7 @@ To get started with the project, follow these steps:
 1. Clone the repository.
 2. Install dependencies using `npm install`.
 3. Create a `.env` file in the root directory of the project.
-4. Add your RapidAPI key to the `.env` file:
-   VITE_RAPID_API_ARTICLE_KEY=YOUR_RAPIDAPI_KEY
-   Replace `YOUR_RAPIDAPI_KEY` with your actual RapidAPI key.
+4. Add your openai api key to the `.env` file:
+   VITE_OPENAI_API_KEY=YOUR_OPENAI_API_KEY
+   Replace `YOUR_OPENAI_API_KEY` with your actual RapidAPI key.
 5. Start the development server using `npm run dev`.
